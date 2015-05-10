@@ -1,0 +1,12 @@
+#! /usr/bin/perl
+
+while ( <STDIN> ) {
+   chomp $_;
+   if ( -f $_ ) {
+     open(PAT, $_) || die "$_ not found";
+     while ( <PAT> ) {
+          chomp $_;
+          print "$_\n";
+     }
+   }
+}

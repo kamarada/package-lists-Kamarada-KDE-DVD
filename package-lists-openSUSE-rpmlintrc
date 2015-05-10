@@ -1,0 +1,4 @@
+# the requires of this package are not the fault of this package
+addFilter("explicit-lib-dependency");
+addFilter("suse-branding-unversioned-req");
+addFilter("suse-branding-specific-branding-req");

@@ -5,7 +5,7 @@ Mesa-libGLESv2-2
 Mesa-libglapi0
 ModemManager
 MozillaFirefox
-MozillaFirefox-branding-openSUSE
+MozillaFirefox-branding-Kamarada
 NetworkManager
 NetworkManager-openvpn
 NetworkManager-pptp
@@ -127,7 +127,7 @@ dd_rescue-lzo
 dd_rhelp
 dejavu-fonts
 deltarpm
-desktop-data-openSUSE
+desktop-data-Kamarada
 desktop-file-utils
 device-mapper
 dhcp
@@ -212,7 +212,7 @@ groff
 grsync
 grub
 grub2
-grub2-branding-openSUSE
+grub2-branding-Kamarada
 grub2-i386-pc
 grub2-snapper-plugin
 gsettings-backend-dconf
@@ -230,7 +230,7 @@ gstreamer-plugins-farstream
 gstreamer-plugins-good
 gstreamer-plugins-good-extra
 gstreamer-plugins-qt
-gtk2-branding-openSUSE
+gtk2-branding-Kamarada
 gtk2-data
 gtk2-engine-oxygen
 gtk2-immodule-amharic
@@ -241,7 +241,7 @@ gtk2-metatheme-adwaita
 gtk2-theme-oxygen
 gtk2-theming-engine-adwaita
 gtk2-tools
-gtk3-branding-openSUSE
+gtk3-branding-Kamarada
 gtk3-data
 gtk3-immodule-amharic
 gtk3-immodule-inuktitut
@@ -309,11 +309,11 @@ kdebase4-libkonq
 kdebase4-nsplugin
 kdebase4-openSUSE
 kdebase4-runtime
-kdebase4-runtime-branding-openSUSE
+kdebase4-runtime-branding-Kamarada
 kdebase4-session
 kdebase4-workspace
 kdebase4-workspace-addons
-kdebase4-workspace-branding-openSUSE
+kdebase4-workspace-branding-Kamarada
 kdebase4-workspace-ksysguardd
 kdebase4-workspace-liboxygenstyle
 kdebase4-workspace-libs
@@ -328,7 +328,7 @@ kdepim4-runtime
 kdepimlibs4
 kdialog
 kdm
-kdm-branding-openSUSE
+kdm-branding-Kamarada
 kdnssd
 keditbookmarks
 kernel-desktop
@@ -371,8 +371,7 @@ krfb
 kruler
 kscreen
 ksnapshot
-ksplash-qml-branding-openSUSE
-ksplashx-branding-openSUSE
+ksplashx-branding-Kamarada
 ksshaskpass
 ksudoku
 ksystemlog
@@ -837,7 +836,7 @@ libreiserfscore0
 libreoffice
 libreoffice-base
 libreoffice-base-extensions
-libreoffice-branding-openSUSE
+libreoffice-branding-upstream
 libreoffice-calc
 libreoffice-calc-extensions
 libreoffice-draw
@@ -1210,7 +1209,7 @@ plasma-nm-pptp
 plasma-nm-vpnc
 plasmoid-folderview
 plymouth
-plymouth-branding-openSUSE
+plymouth-branding-Kamarada
 plymouth-dracut
 plymouth-plugin-script
 plymouth-scripts
@@ -1319,7 +1318,6 @@ sssd-ldap
 strace
 sudo
 suse-module-tools
-susegreeter-branding-openSUSE
 suspend
 sweeper
 synaptiks
@@ -1385,7 +1383,7 @@ vlc-noX
 vlc-qt
 vorbis-tools
 vpnc
-wallpaper-branding-openSUSE
+wallpaper-branding-Kamarada
 wavpack
 wget
 which
@@ -1472,7 +1470,7 @@ yast2
 yast2-add-on
 yast2-apparmor
 yast2-bootloader
-yast2-branding-openSUSE
+yast2-branding-Kamarada
 yast2-control-center
 yast2-control-center-qt
 yast2-core
@@ -1499,7 +1497,7 @@ yast2-perl-bindings
 yast2-pkg-bindings
 yast2-printer
 yast2-proxy
-yast2-qt-branding-openSUSE
+yast2-qt-branding-Kamarada
 yast2-ruby-bindings
 yast2-samba-client
 yast2-samba-server

@@ -142,7 +142,6 @@ dosfstools
 dracut
 dvd+rw-tools
 e2fsprogs
-efibootmgr
 elfutils
 elilo
 enblend-enfuse
@@ -182,10 +181,8 @@ girepository-1_0
 glib-networking
 glib2-tools
 glibc
-glibc-32bit
 glibc-extra
 glibc-locale
-glibc-locale-32bit
 gnome-keyring
 gnome-keyring-pam
 gnu-unifont-bitmap-fonts
@@ -206,7 +203,6 @@ grub2
 grub2-branding-openSUSE
 grub2-i386-pc
 grub2-snapper-plugin
-grub2-x86_64-efi
 gsettings-backend-dconf
 gsettings-desktop-schemas
 gstreamer
@@ -728,7 +724,6 @@ libnotify-tools
 libnotify4
 libnsssharedhelper0
 libntfs-3g85
-libnuma1
 libodfgen-0_1-1
 libogg0
 liboggkate1
@@ -1028,7 +1023,6 @@ nss_ldap
 ntfs-3g
 ntfsprogs
 ntp
-numactl
 numlockx
 ofl
 open-iscsi
@@ -1247,7 +1241,6 @@ setxkbmap
 sg3_utils
 shadow
 shared-mime-info
-shim
 smartmontools
 smbios-utils-python
 smp_utils
@@ -1341,7 +1334,6 @@ xdg-menu
 xdg-user-dirs
 xdg-utils
 xdm
-xen-kmp-desktop
 xf86-input-evdev
 xf86-input-joystick
 xf86-input-keyboard

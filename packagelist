@@ -71,6 +71,7 @@ bluedevil
 bluez
 bluez-firmware
 boost-license1_54_0
+bovo
 branding-openSUSE
 btrfsmaintenance
 btrfsprogs
@@ -80,6 +81,7 @@ bzip2
 ca-certificates
 ca-certificates-mozilla
 cantarell-fonts
+cdparanoia
 cdparanoia-devel
 cdrdao
 cdrkit-cdrtools-compat
@@ -241,6 +243,7 @@ hfsutils
 hicolor-icon-theme
 hicolor-icon-theme-branding-openSUSE
 htdig
+htop
 hunspell
 hunspell-tools
 hwinfo
@@ -251,6 +254,7 @@ icewm-default
 icewm-lite
 icoutils
 ifplugd
+iftop
 info
 info2html
 initviocons
@@ -260,6 +264,7 @@ intlfonts-euro-bitmap-fonts
 iproute2
 ipset-kmp-desktop
 iptables
+iptraf-ng
 iputils
 ipw-firmware
 irda
@@ -274,6 +279,7 @@ k3b
 kactivities4
 kaddressbook
 kbd
+kbounce
 kcalc
 kcharselect
 kcolorchooser
@@ -330,6 +336,7 @@ kmod
 kmod-compat
 kmousetool
 knotes
+kolourpaint
 kompare
 konqueror
 konqueror-plugins
@@ -361,6 +368,7 @@ kwrite
 lensfun-data
 less
 lftp
+lhasa
 libFLAC++6
 libFLAC8
 libGLEW1_10
@@ -1004,6 +1012,7 @@ mozilla-nss
 mozilla-nss-certs
 mpt-firmware
 mtools
+mtr
 multipath-tools
 myspell-dictionaries
 myspell-en
@@ -1025,6 +1034,7 @@ ntfsprogs
 ntp
 numlockx
 ofl
+okular
 open-iscsi
 open-vm-tools
 open-vm-tools-desktop
@@ -1145,6 +1155,7 @@ perl-gettext
 perl-libwww-perl
 permissions
 phonon-backend-gstreamer
+pidgin
 pigz
 pinentry
 pinentry-qt4
@@ -1169,6 +1180,7 @@ polkit-default-privs
 polkit-kde-agent-1
 poppler-tools
 postfix
+powertop
 ppp
 pptp
 procps
@@ -1218,6 +1230,7 @@ rcc-runtime
 recode
 reiserfs
 release-notes-openSUSE
+rfkill
 rgb
 rpcbind
 rpm
@@ -1235,7 +1248,9 @@ samba-libs
 sbc
 sbl
 scout
+screen
 sed
+sensors
 sessreg
 setxkbmap
 sg3_utils
@@ -1278,6 +1293,7 @@ sysvinit-tools
 taglib
 tar
 tcl
+tcpdump
 terminfo-base
 tigervnc
 time

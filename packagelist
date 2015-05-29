@@ -6,6 +6,7 @@ Mesa-libglapi0
 ModemManager
 MozillaFirefox
 MozillaFirefox-branding-Kamarada
+MozillaFirefox-translations-common
 NetworkManager
 NetworkManager-openvpn
 NetworkManager-pptp
@@ -77,7 +78,9 @@ branding-openSUSE
 btrfsmaintenance
 btrfsprogs
 bundle-lang-common-en
+bundle-lang-common-pt
 bundle-lang-kde-en
+bundle-lang-kde-pt
 bzip2
 ca-certificates
 ca-certificates-mozilla
@@ -136,6 +139,7 @@ dhcpcd
 dialog
 diffutils
 digikam
+digikam-lang
 dirmngr
 dmidecode
 dmraid
@@ -219,16 +223,24 @@ gsettings-backend-dconf
 gsettings-desktop-schemas
 gstreamer
 gstreamer-0_10
+gstreamer-0_10-lang
 gstreamer-0_10-plugin-esd
 gstreamer-0_10-plugins-bad
+gstreamer-0_10-plugins-bad-lang
 gstreamer-0_10-plugins-base
+gstreamer-0_10-plugins-base-lang
 gstreamer-0_10-plugins-good
 gstreamer-0_10-plugins-good-extra
+gstreamer-0_10-plugins-good-lang
+gstreamer-lang
 gstreamer-plugins-bad
+gstreamer-plugins-bad-lang
 gstreamer-plugins-base
+gstreamer-plugins-base-lang
 gstreamer-plugins-farstream
 gstreamer-plugins-good
 gstreamer-plugins-good-extra
+gstreamer-plugins-good-lang
 gstreamer-plugins-qt
 gtk2-branding-Kamarada
 gtk2-data
@@ -303,6 +315,8 @@ kcolorchooser
 kde-gtk-config
 kde4-filesystem
 kde4-kgreeter-plugins
+kde4-l10n-pt_BR
+kde4-l10n-pt_BR-data
 kde4-print-manager
 kdeartwork4-screensaver
 kdebase4-libkonq
@@ -344,6 +358,7 @@ kio_iso
 kio_kamera
 kio_mtp
 kipi-plugins
+kipi-plugins-lang
 kjots
 klogd
 kmag
@@ -377,6 +392,7 @@ ksudoku
 ksystemlog
 ktimetracker
 ktorrent
+ktorrent-lang
 kvkbd
 kwalletmanager
 kwebkitpart
@@ -801,9 +817,11 @@ libproxy1-pacrunner-webkit
 libpth20
 libpulse-mainloop-glib0
 libpulse0
+libpurple-lang
 libpurple-plugin-pack
 libpurple-plugin-pack-extras
 libpurple-plugin-skype
+libpurple-plugin-skype-lang
 libpwquality1
 libpython2_7-1_0
 libpython3_4m1_0
@@ -848,6 +866,7 @@ libreoffice-impress
 libreoffice-impress-extensions
 libreoffice-kde4
 libreoffice-l10n-en
+libreoffice-l10n-pt-BR
 libreoffice-mailmerge
 libreoffice-math
 libreoffice-templates-en
@@ -1204,6 +1223,7 @@ plasma-addons
 plasma-addons-akonadi
 plasma-addons-lancelot
 plasma-nm
+plasma-nm-lang
 plasma-nm-openvpn
 plasma-nm-pptp
 plasma-nm-vpnc
@@ -1236,6 +1256,7 @@ pulseaudio-module-lirc
 pulseaudio-module-x11
 pulseaudio-module-zeroconf
 pulseaudio-utils
+purple-plugin-pack-lang
 pytalloc
 python
 python-CherryPy
@@ -1302,6 +1323,7 @@ shadow
 shared-mime-info
 sharutils
 skanlite
+skanlite-lang
 smartmontools
 smbios-utils-python
 smp_utils
@@ -1349,6 +1371,7 @@ tnftp
 traceroute
 tree
 translation-update
+translation-update-pt_BR
 tuned
 typelib-1_0-Atk-1_0
 typelib-1_0-GdkPixbuf-2_0
@@ -1380,6 +1403,7 @@ virtualbox-guest-tools
 virtualbox-guest-x11
 vlc
 vlc-noX
+vlc-noX-lang
 vlc-qt
 vorbis-tools
 vpnc
@@ -1466,6 +1490,7 @@ xtables-plugins
 xterm
 xz
 yakuake
+yakuake-lang
 yast2
 yast2-add-on
 yast2-apparmor

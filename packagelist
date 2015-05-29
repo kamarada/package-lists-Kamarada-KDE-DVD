@@ -157,13 +157,16 @@ file-magic
 filesystem
 fillup
 findutils
+finger
 fipscheck
 fontconfig
 fonts-config
 fprintd
 fprintd-pam
 freerdp
+fuse
 gawk
+gcc-c++
 gconf-polkit
 gconf2
 gconf2-branding-openSUSE
@@ -197,6 +200,7 @@ gparted
 gpg2
 gpm
 gptfdisk
+gptfdisk-fixparts
 grep
 groff
 grsync
@@ -318,6 +322,7 @@ kernel-desktop
 kernel-firmware
 keyutils
 kfilemetadata
+kfind
 kgamma
 kget
 kgpg
@@ -977,6 +982,7 @@ libz1
 libzio1
 libzip2
 libzypp
+lilo
 linuxconsoletools
 lirc
 lirc-remotes
@@ -990,6 +996,7 @@ lua
 luit
 lvm2
 mailx
+make
 man
 mariadb
 mariadb-client
@@ -1010,6 +1017,7 @@ mozilla-kde4-integration
 mozilla-nspr
 mozilla-nss
 mozilla-nss-certs
+mozilla-nss-tools
 mpt-firmware
 mtools
 mtr
@@ -1063,6 +1071,7 @@ pam_mount
 pango-tools
 parallel-printer-support
 parted
+patch
 patterns-openSUSE-apparmor
 patterns-openSUSE-base
 patterns-openSUSE-enhanced_base
@@ -1183,6 +1192,7 @@ postfix
 powertop
 ppp
 pptp
+procinfo
 procps
 psmisc
 ptools
@@ -1227,6 +1237,7 @@ python3-setuptools
 qt4-qtscript
 quota
 rcc-runtime
+rdesktop
 recode
 reiserfs
 release-notes-openSUSE
@@ -1253,9 +1264,11 @@ sed
 sensors
 sessreg
 setxkbmap
+setserial
 sg3_utils
 shadow
 shared-mime-info
+sharutils
 smartmontools
 smbios-utils-python
 smp_utils
@@ -1265,6 +1278,7 @@ socat
 sound-theme-freedesktop
 sox
 spice-vdagent
+squashfs
 sssd
 sssd-krb5-common
 sssd-ldap
@@ -1294,6 +1308,7 @@ taglib
 tar
 tcl
 tcpdump
+telnet
 terminfo-base
 tigervnc
 time
@@ -1301,6 +1316,7 @@ timezone
 timezone-java
 tnftp
 traceroute
+tree
 translation-update
 tuned
 typelib-1_0-Atk-1_0
@@ -1334,8 +1350,10 @@ virtualbox-guest-x11
 vorbis-tools
 vpnc
 wallpaper-branding-openSUSE
+wavpack
 wget
 which
+whois
 wicked
 wicked-service
 wireless-regdb
@@ -1344,6 +1362,7 @@ wodim
 wpa_supplicant
 x11-tools
 xauth
+xbacklight
 xbitmaps
 xconsole
 xdg-menu
@@ -1485,6 +1504,7 @@ ypbind
 zd1211-firmware
 zip
 zisofs-tools
+zoo
 zypp-plugin-python
 zypper
 zypper-aptitude

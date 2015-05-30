@@ -298,8 +298,10 @@ irda
 iscsiuio
 iw
 java-1_8_0-openjdk
+java-1_8_0-openjdk-accessibility
 java-1_8_0-openjdk-headless
 java-1_8_0-openjdk-plugin
+java-atk-wrapper
 javapackages-tools
 jfsutils
 k3b

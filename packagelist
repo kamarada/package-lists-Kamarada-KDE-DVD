@@ -40,6 +40,7 @@ apparmor-abstractions
 apparmor-parser
 apparmor-profiles
 apparmor-utils
+apparmor-utils-lang
 apper
 appmenu-qt
 ark
@@ -71,6 +72,7 @@ bind-libs
 bind-utils
 binutils
 bluedevil
+bluedevil-lang
 bluez
 bluez-firmware
 boost-license1_54_0
@@ -140,7 +142,6 @@ dhcpcd
 dialog
 diffutils
 digikam
-digikam-lang
 dirmngr
 dmidecode
 dmraid
@@ -226,24 +227,19 @@ gsettings-backend-dconf
 gsettings-desktop-schemas
 gstreamer
 gstreamer-0_10
-gstreamer-0_10-lang
 gstreamer-0_10-plugin-esd
 gstreamer-0_10-plugins-bad
 gstreamer-0_10-plugins-bad-lang
 gstreamer-0_10-plugins-base
-gstreamer-0_10-plugins-base-lang
 gstreamer-0_10-plugins-good
 gstreamer-0_10-plugins-good-extra
 gstreamer-0_10-plugins-good-lang
-gstreamer-lang
 gstreamer-plugins-bad
 gstreamer-plugins-bad-lang
 gstreamer-plugins-base
-gstreamer-plugins-base-lang
 gstreamer-plugins-farstream
 gstreamer-plugins-good
 gstreamer-plugins-good-extra
-gstreamer-plugins-good-lang
 gstreamer-plugins-qt
 gtk2-branding-Kamarada
 gtk2-data
@@ -312,6 +308,7 @@ kactivities4
 kaddressbook
 kalarm
 kamoso
+kamoso-lang
 kbd
 kbounce
 kcalc
@@ -322,6 +319,7 @@ kde4-filesystem
 kde4-kgreeter-plugins
 kde4-l10n-pt_BR
 kde4-l10n-pt_BR-data
+kde4-l10n-pt_BR-doc
 kde4-print-manager
 kdeartwork4-screensaver
 kdebase4-libkonq
@@ -363,7 +361,6 @@ kio_iso
 kio_kamera
 kio_mtp
 kipi-plugins
-kipi-plugins-lang
 kjots
 klogd
 kmag
@@ -397,7 +394,6 @@ ksudoku
 ksystemlog
 ktimetracker
 ktorrent
-ktorrent-lang
 kvkbd
 kwalletmanager
 kwebkitpart
@@ -1229,7 +1225,6 @@ plasma-addons
 plasma-addons-akonadi
 plasma-addons-lancelot
 plasma-nm
-plasma-nm-lang
 plasma-nm-openvpn
 plasma-nm-pptp
 plasma-nm-vpnc

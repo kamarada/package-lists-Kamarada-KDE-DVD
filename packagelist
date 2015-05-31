@@ -80,9 +80,7 @@ bovo
 branding-openSUSE
 btrfsmaintenance
 btrfsprogs
-bundle-lang-common-en
 bundle-lang-common-pt
-bundle-lang-kde-en
 bundle-lang-kde-pt
 bzip2
 ca-certificates
@@ -1075,6 +1073,8 @@ multipath-tools
 myspell-dictionaries
 myspell-en
 myspell-lightproof-en
+myspell-lightproof-pt_BR
+myspell-pt_BR
 nano
 nano-lang
 ncurses-utils
@@ -1538,9 +1538,6 @@ yast2-sound
 yast2-storage
 yast2-sudo
 yast2-sysconfig
-yast2-trans-en_GB
-yast2-trans-en_US
-yast2-trans-pt
 yast2-trans-pt_BR
 yast2-trans-stats
 yast2-transfer

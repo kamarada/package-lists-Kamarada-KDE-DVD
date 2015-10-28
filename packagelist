@@ -1485,9 +1485,11 @@ PackageKit-lang
 pam
 pam-32bit
 pam-config
+pam-modules
 pango-tools
 parallel-printer-support
 parted
+patch
 patterns-openSUSE-apparmor
 patterns-openSUSE-apparmor_opt
 patterns-openSUSE-base
@@ -1897,6 +1899,7 @@ xkeyboard-config-lang
 xli
 xmessage
 xmodmap
+xorg-x11
 xorg-x11-driver-input
 xorg-x11-driver-video
 xorg-x11-essentials

@@ -44,12 +44,13 @@ avahi-autoipd
 avahi-lang
 baloo5
 baloo5-file
+baloo5-kioslaves
 baloo5-lang
+baloo5-tools
 baloo5-widgets
 baloo-core
 baloo-kioslaves
 baloo-pim
-baloo-tools
 bash
 bash-completion
 bash-doc
@@ -73,6 +74,7 @@ breeze5-icons
 breeze5-style
 breeze5-style-lang
 breeze5-wallpapers
+breeze-gtk
 btrfsmaintenance
 btrfsprogs
 bzip2
@@ -144,11 +146,12 @@ dmidecode
 dmraid
 dmz-icon-theme-cursors
 dnsmasq
-dolphin
+dolphin4
 dolphin-part
 dos2unix
 dosfstools
 dracut
+dragonplayer
 drkonqi5
 dvd+rw-tools
 e2fsprogs
@@ -310,7 +313,7 @@ icedax
 icewm
 icewm-default
 icewm-lite
-icewm-theme-branding
+icewm-themes
 icoutils
 ifplugd
 ImageMagick
@@ -365,6 +368,7 @@ kdebase4-libkonq
 kdebase4-nsplugin
 kdebase4-runtime
 kdebase4-runtime-branding-openSUSE
+kdebase4-workspace-branding-openSUSE
 kdebase4-workspace-libs
 kdeclarative-components
 kde-cli-tools5
@@ -535,6 +539,8 @@ libavutil54
 libbabl-0_1-0
 libbaloofiles4
 libbaloopim4
+libbalooqueryparser4
+libbaloowidgets4
 libbase
 libblas3
 libblkid1
@@ -776,7 +782,7 @@ libkdegames4
 libkdegames6
 libkdepim4
 libkdepimlibs4
-libkerfuffle4
+libkerfuffle15
 libkexiv2-11
 libkeyutils1
 libkeyutils1-32bit
@@ -928,7 +934,8 @@ liblzo2-2
 libmagic1
 libMagickCore-6_Q16-1
 libMagickWand-6_Q16-1
-libmarblewidget21
+libmarblewidget22
+libmarblewidget-qt5-22
 libmbim-glib4
 libmeanwhile1
 libmediawiki1
@@ -999,6 +1006,7 @@ libotr5
 libp11-kit0
 libpackagekit-glib2-18
 libpackagekitqt4-0
+libpackagekitqt5-0
 libpagemaker-0_0-0
 libpango-1_0-0
 libpano13-3
@@ -1101,6 +1109,7 @@ libQtQuick5
 libQtWebKit4
 libquadmath0
 libquazip1
+libquazip5-1
 libquicktime0
 libraptor2-0
 librasqal3
@@ -1387,6 +1396,7 @@ manufacturer-PPDs
 marble
 marble-data
 marble-doc
+marble-kde
 mariadb
 mariadb-client
 mariadb-errormessages
@@ -1483,7 +1493,6 @@ PackageKit-lang
 pam
 pam-32bit
 pam-config
-pam-modules
 pango-tools
 parallel-printer-support
 parted
@@ -1605,6 +1614,7 @@ plasma5-desktop-branding-openSUSE
 plasma5-desktop-lang
 plasma5-pa
 plasma5-pa-lang
+plasma5-pk-updates
 plasma5-session
 plasma5-workspace
 plasma5-workspace-branding-openSUSE
@@ -1644,7 +1654,6 @@ psmisc
 psmisc-lang
 psutils
 ptools
-pullin-flash-player
 pulseaudio
 pulseaudio-bash-completion
 pulseaudio-lang
@@ -1878,6 +1887,7 @@ xdg-user-dirs-lang
 xdg-utils
 xdm
 xdmbgrd
+xembed-sni-proxy
 xerces-j2-xml-apis
 xf86-input-evdev
 xf86-input-joystick
